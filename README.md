@@ -43,7 +43,7 @@ Bank Management System (C++)
 
 ⚡ Fun & Extra
 
-🔥 Solved 70+ problems on LeetCode (Python & C++)
+🔥 Solved 600+ problems on LeetCode (Python & C++)
 
 🏆 Completed 20+ online courses on AI, ML, and Development
 
