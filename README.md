@@ -33,7 +33,7 @@ I’m building projects that combine **AI + software engineering** to solve real
 ---
 
 ## ⚡ Fun & Extra  
-- 🔥 Solved **70+ problems** on LeetCode (Python & C++)  
+- 🔥 Solved **600+ problems** on LeetCode (Python & C++)  
 - 🏆 Completed **20+ online courses** on AI, ML, and Development  
 - 💡 Always exploring **AI + Productivity Tools**  
 - 🌟 Proud **GitHub Pro** badge holder  
