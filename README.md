@@ -38,17 +38,14 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🔥 [Wildfire Intelligence Platform](#) | Wildfire prediction from real-time satellite data (96.91% accuracy, R² 0.98), full MLOps pipeline cutting deploy time from 15 min to under 2 | Python, FastAPI, Docker, Streamlit, Gemini, HuggingFace |
-| 🏠 [DormDeck AI](#) | AI campus marketplace concierge with semantic search, serving 2,000+ students across 130+ sessions | Python, Streamlit, Supabase, Gemini |
-| 📄 [RAG Web Q&A System](#) | Ingests web URLs and answers questions with source-cited, context-grounded retrieval | Python, Streamlit, ChromaDB, Gemini, LangChain |
-| 🎥 [CausalVis (Final Year Project)](#) | Neuro-symbolic pipeline for causal and counterfactual reasoning in physical video | PyTorch, VLMs, world models |
-| 🌫️ [AQI Predictor](#) | Serverless ML pipeline forecasting AQI 3 days ahead, with SHAP explainability and automated CI/CD retraining | Python, TensorFlow, Scikit-learn, Airflow, SHAP |
-| 🧠 [Multimodal Agentic RAG](#) | Agentic retrieval system combining vision and text with knowledge-graph grounded search | CLIP, FAISS, LangChain, Neo4j |
-| 🔩 [Rusted Motor Classification](#) | Binary vision classifier detecting rusted vs. non-rusted motors | MobileNetV3, Vision Transformers |
-| ✅ [Verity](#) | AI fact-checker with claim-level, color-coded verdicts over streamed output | Next.js, Supabase/pgvector, Groq Llama 3.3, Tavily |
-| 📵 [Spammer Listings](#) | Community-driven platform for reporting phone spammers, deployed live | Next.js, MongoDB Atlas, NextAuth |
+| 🔥 [Wildfire Intelligence Platform](https://github.com/Muhammad-Hashir-55/wildfire-intelligence-mlops) | Wildfire prediction from real-time satellite data (96.91% accuracy, R² 0.98), full MLOps pipeline cutting deploy time from 15 min to under 2 | Python, FastAPI, Docker, Streamlit, Gemini, HuggingFace |
+| 🏠 [DormDeck AI](https://github.com/Muhammad-Hashir-55/dormdeck) | AI campus marketplace concierge with semantic search, serving 2,000+ students across 130+ sessions | Python, Streamlit, Supabase, Gemini |
+| 📄 [RAG Web Q&A System](https://github.com/Muhammad-Hashir-55/RAG-URL-QnA) | Ingests web URLs and answers questions with source-cited, context-grounded retrieval | Python, Streamlit, ChromaDB, Gemini, LangChain |
+| 🌫️ [AQI Predictor](https://github.com/Muhammad-Hashir-55/aqi-predictor) | Serverless ML pipeline forecasting AQI 3 days ahead, with SHAP explainability and automated CI/CD retraining | Python, TensorFlow, Scikit-learn, Airflow, SHAP |
+| 🔩 [Rusted Motor Classification](https://github.com/Muhammad-Hashir-55/Pel-Internship/tree/main/week-4/desktop_application_motor_and_holes) | Binary vision classifier detecting rusted vs. non-rusted motors | MobileNetV3, Vision Transformers |
+| ✅ [Verity](https://github.com/Muhammad-Hashir-55/verity) | AI fact-checker with claim-level, color-coded verdicts over streamed output | Next.js, Supabase/pgvector, Groq Llama 3.3, Tavily |
+| 📵 [Spammer Listings](https://github.com/Muhammad-Hashir-55/spammer-listings) | Community-driven platform for reporting phone spammers, deployed live | Next.js, MongoDB Atlas, NextAuth |
 
-*(Swap in your repo links where you see `#` — GitHub strips broken links but real ones make this pop.)*
 
 ---
 
