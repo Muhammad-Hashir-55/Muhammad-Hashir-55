@@ -64,7 +64,7 @@ Mail......: hashir.awaiz@gmail.com
 | [Spammer Listings](https://github.com/Muhammad-Hashir-55/spammer-listings) | Community-driven platform for reporting phone spammers, deployed live | Next.js, MongoDB Atlas, NextAuth |
 | [Rusted Motor Classification](https://github.com/Muhammad-Hashir-55/Pel-Internship/tree/main/week-4/desktop_application_motor_and_holes) | Binary vision classifier detecting rusted vs. non-rusted motors | MobileNetV3, Vision Transformers |
 
-**Also building:** CausalVis, a neuro-symbolic pipeline for causal and counterfactual reasoning in physical video (Final Year Project) - and a Multimodal Agentic RAG system combining CLIP, FAISS, LangChain, and Neo4j for a Deep Neural Networks course.
+**Also building:** CausalVis, a neuro-symbolic pipeline for causal and counterfactual reasoning in physical video (Final Year Project)
 
 
 
