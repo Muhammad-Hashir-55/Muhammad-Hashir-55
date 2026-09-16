@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Hashir%20Awaiz&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20-%20Computer%20Vision%20%26%20GenAI&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=160&section=header&text=Muhammad%20Hashir%20Awaiz&fontSize=38&fontColor=ffffff&fontAlignY=42" width="100%"/>
 </p>
 
 <p align="center">
@@ -16,22 +16,26 @@
 
 <br>
 
-```bash
-$ whoami
-muhammad_hashir_awaiz :: ai_engineer
-
-$ status
-final-year B.S. Artificial Intelligence @ GIKI | CGPA 3.70 | Dean's Roll of Honor x4
-
-$ currently
-building end-to-end ML systems : computer vision, GenAI/RAG pipelines, MLOps
-
-$ stack
-python, pytorch, tensorflow, fastapi, next.js, docker, aws
-
-$ contact
-hashir.awaiz@gmail.com
-```
+<table>
+<tr>
+<td width="190" align="center" valign="middle">
+<img src="https://github.com/Muhammad-Hashir-55.png" width="170" style="border-radius:50%" />
+</td>
+<td valign="middle">
+<pre>
+hashir@giki
+-----------
+OS........: Linux Mint, LUKS encrypted
+Role......: AI Engineer
+Degree....: B.S. Artificial Intelligence, GIKI
+Standing..: CGPA 3.70, Dean's Roll of Honor x4
+Focus.....: Computer Vision, GenAI/RAG, MLOps
+Stack.....: Python, PyTorch, TensorFlow, FastAPI, Next.js, Docker
+Mail......: hashir.awaiz@gmail.com
+</pre>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,15 +54,15 @@ hashir.awaiz@gmail.com
 
 ## Featured Work
 
-<p align="center">
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=wildfire-intelligence-mlops&theme=tokyonight&hide_border=true" />
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=dormdeck&theme=tokyonight&hide_border=true" />
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=RAG-URL-QnA&theme=tokyonight&hide_border=true" />
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=aqi-predictor&theme=tokyonight&hide_border=true" />
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=verity&theme=tokyonight&hide_border=true" />
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=spammer-listings&theme=tokyonight&hide_border=true" />
-  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=Pel-Internship&theme=tokyonight&hide_border=true" />
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| [Wildfire Intelligence Platform](https://github.com/Muhammad-Hashir-55/wildfire-intelligence-mlops) | Wildfire prediction from real-time satellite data (96.91% accuracy, R2 0.98), MLOps pipeline cutting deploy time from 15 min to under 2 | Python, FastAPI, Docker, Streamlit, Gemini |
+| [DormDeck AI](https://github.com/Muhammad-Hashir-55/dormdeck) | AI campus marketplace concierge with semantic search, serving 2,000+ students across 130+ sessions | Python, Streamlit, Supabase, Gemini |
+| [RAG Web Q&A System](https://github.com/Muhammad-Hashir-55/RAG-URL-QnA) | Ingests web URLs and answers questions with source-cited, context-grounded retrieval | Python, Streamlit, ChromaDB, LangChain |
+| [AQI Predictor](https://github.com/Muhammad-Hashir-55/aqi-predictor) | Serverless pipeline forecasting AQI 3 days ahead, SHAP explainability, automated CI/CD retraining | Python, TensorFlow, Scikit-learn, Airflow |
+| [Verity](https://github.com/Muhammad-Hashir-55/verity) | AI fact-checker with claim-level, color-coded verdicts over streamed output | Next.js, Supabase/pgvector, Groq Llama 3.3 |
+| [Spammer Listings](https://github.com/Muhammad-Hashir-55/spammer-listings) | Community-driven platform for reporting phone spammers, deployed live | Next.js, MongoDB Atlas, NextAuth |
+| [Rusted Motor Classification](https://github.com/Muhammad-Hashir-55/Pel-Internship/tree/main/week-4/desktop_application_motor_and_holes) | Binary vision classifier detecting rusted vs. non-rusted motors | MobileNetV3, Vision Transformers |
 
 **Also building:** CausalVis, a neuro-symbolic pipeline for causal and counterfactual reasoning in physical video (Final Year Project) - and a Multimodal Agentic RAG system combining CLIP, FAISS, LangChain, and Neo4j for a Deep Neural Networks course.
 
@@ -110,10 +114,7 @@ Things I tinker with outside coursework and internships:
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hashir-55&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<!--
-Optional: animated contribution snake. Needs a one-time setup in your profile repo
-(github.com/Muhammad-Hashir-55/Muhammad-Hashir-55) - see snake.yml. Once the workflow
-has run at least once, uncomment this block.
+
 
 <p align="center">
   <picture>
@@ -121,7 +122,7 @@ has run at least once, uncomment this block.
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Muhammad-Hashir-55/Muhammad-Hashir-55/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
--->
+
 
 ---
 
