@@ -25,7 +25,7 @@
 <pre>
 hashir@giki
 -----------
-OS........: Linux Mint, LUKS encrypted
+
 Role......: AI Engineer
 Degree....: B.S. Artificial Intelligence, GIKI
 Standing..: CGPA 3.70, Dean's Roll of Honor x4
