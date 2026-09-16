@@ -1,107 +1,101 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hashir Awaiz</h1>
-<h3 align="center">AI Engineer | Computer Vision & GenAI | Final-Year AI Student at GIKI</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-hashir-awaiz-aa0a752a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hashir.awaiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-800%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-250%2B_solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Hashir%20Awaiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20GenAI&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+%26+GenAI;Final-Year+AI+Student+%40+GIKI;Shipping+ML+from+Notebook+to+Production" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-hashir-awaiz-aa0a752a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:hashir.awaiz@gmail.com"><img src="https://img.shields.io/badge/Email-hashir.awaiz%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-800%2B_solved-333333?style=flat-square&logo=leetcode&logoColor=FFA116"></a>
+  <a href="https://codeforces.com/"><img src="https://img.shields.io/badge/Codeforces-250%2B_solved-333333?style=flat-square&logo=codeforces&logoColor=1F8ACB"></a>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Hashir-55&style=flat-square&color=58A6FF&label=profile+views">
+</p>
+
+<br>
+
+```bash
+$ whoami
+muhammad_hashir_awaiz :: ai_engineer
+
+$ status
+final-year B.S. Artificial Intelligence @ GIKI | CGPA 3.70 | Dean's Roll of Honor x4
+
+$ currently
+building end-to-end ML systems : computer vision, GenAI/RAG pipelines, MLOps
+
+$ stack
+python, pytorch, tensorflow, fastapi, next.js, docker, aws
+
+$ contact
+hashir.awaiz@gmail.com
+```
+
 ---
 
-### 🚀 About Me
+## Experience
 
-- 🎓 Final-year **B.S. Artificial Intelligence** student at Ghulam Ishaq Khan Institute (GIKI), CGPA 3.70
-- 🏆 Dean's Roll of Honor recipient, 4 consecutive semesters
-- 🔭 Building end-to-end ML systems: computer vision, GenAI/RAG pipelines, and MLOps
-- 🛠️ Recently wrapped a Quality Control AI & Computer Vision internship at **Pak Elektron Limited (PEL)**
-- 🌱 Learning by shipping: most of what's below started as "let's see if this works" and turned into a working system
-- 📫 Reach me at **hashir.awaiz@gmail.com**
-
----
-
-### 💼 Experience
-
-**Summer Intern, AI & Computer Vision — Pak Elektron Limited (PEL)**, Quality Control (Appliances Division)
+**AI & Computer Vision Intern | Pak Elektron Limited (PEL)** | Quality Control, Appliances Division
 - Built end-to-end YOLO pipelines (YOLOE, YOLOv11, YOLO26) for hole detection and 10-class FDM 3D-printing defect inspection
-- Deployed live inspection systems on a Raspberry Pi 5 with camera streaming and ADXL345/INMP441 sensor integration for vibration and audio-based defect detection
-- Shipped a production desktop QC app (CustomTkinter, SQLite) packaged as a standalone Windows `.exe`, plus real-time dashboards and seven onboarding/deployment guides
+- Deployed live inspection systems on Raspberry Pi 5 with camera streaming, ADXL345/INMP441 sensor integration for vibration and audio-based defect detection
+- Shipped a production desktop QC app (CustomTkinter, SQLite) packaged as a standalone Windows `.exe`, plus real-time dashboards and seven internal deployment/onboarding guides
 
-**Web Developer Intern — Khuda Hafiz (Air University)**, Remote
+**Web Developer Intern | Khuda Hafiz, Air University** | Remote
 - Built the full Packages module (routing, order logic, workflows) in Next.js, delivered 2 days ahead of schedule
 - Integrated Firebase auth and real-time data, deployed to Vercel with zero downtime
 
 ---
 
-### 🧩 Featured Projects
+## Featured Work
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🔥 [Wildfire Intelligence Platform](https://github.com/Muhammad-Hashir-55/wildfire-intelligence-mlops) | Wildfire prediction from real-time satellite data (96.91% accuracy, R² 0.98), full MLOps pipeline cutting deploy time from 15 min to under 2 | Python, FastAPI, Docker, Streamlit, Gemini, HuggingFace |
-| 🏠 [DormDeck AI](https://github.com/Muhammad-Hashir-55/dormdeck) | AI campus marketplace concierge with semantic search, serving 2,000+ students across 130+ sessions | Python, Streamlit, Supabase, Gemini |
-| 📄 [RAG Web Q&A System](https://github.com/Muhammad-Hashir-55/RAG-URL-QnA) | Ingests web URLs and answers questions with source-cited, context-grounded retrieval | Python, Streamlit, ChromaDB, Gemini, LangChain |
-| 🌫️ [AQI Predictor](https://github.com/Muhammad-Hashir-55/aqi-predictor) | Serverless ML pipeline forecasting AQI 3 days ahead, with SHAP explainability and automated CI/CD retraining | Python, TensorFlow, Scikit-learn, Airflow, SHAP |
-| 🔩 [Rusted Motor Classification](https://github.com/Muhammad-Hashir-55/Pel-Internship/tree/main/week-4/desktop_application_motor_and_holes) | Binary vision classifier detecting rusted vs. non-rusted motors | MobileNetV3, Vision Transformers |
-| ✅ [Verity](https://github.com/Muhammad-Hashir-55/verity) | AI fact-checker with claim-level, color-coded verdicts over streamed output | Next.js, Supabase/pgvector, Groq Llama 3.3, Tavily |
-| 📵 [Spammer Listings](https://github.com/Muhammad-Hashir-55/spammer-listings) | Community-driven platform for reporting phone spammers, deployed live | Next.js, MongoDB Atlas, NextAuth |
+<p align="center">
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=wildfire-intelligence-mlops&theme=tokyonight&hide_border=true" />
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=dormdeck&theme=tokyonight&hide_border=true" />
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=RAG-URL-QnA&theme=tokyonight&hide_border=true" />
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=aqi-predictor&theme=tokyonight&hide_border=true" />
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=verity&theme=tokyonight&hide_border=true" />
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=spammer-listings&theme=tokyonight&hide_border=true" />
+  <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hashir-55&repo=Pel-Internship&theme=tokyonight&hide_border=true" />
+</p>
 
+**Also building:** CausalVis, a neuro-symbolic pipeline for causal and counterfactual reasoning in physical video (Final Year Project) - and a Multimodal Agentic RAG system combining CLIP, FAISS, LangChain, and Neo4j for a Deep Neural Networks course.
 
 ---
 
-### 🛠️ Tech Stack
+## In the Lab
+
+Things I tinker with outside coursework and internships:
+- Daily driving Linux Mint with LUKS full-disk encryption, running a Windows VM through QEMU/KVM and virt-manager
+- Deploying edge inference on a Raspberry Pi 5, tuning models for real-time camera and sensor pipelines
+- Debugging low-level GPU/compositor issues (chased a Waydroid gralloc/GPU mismatch down to matching render nodes between the container and the Wayland compositor)
+
+---
+
+## Tech Stack
 
 **Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
+<p><img src="https://skillicons.dev/icons?i=py,cpp,js&theme=dark" /></p>
 
-**AI / ML / DL**
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-</p>
+**AI / ML / Computer Vision**
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" /></p>
 
 **Full Stack**
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-</p>
+<p><img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,nodejs&theme=dark" /></p>
 
-**Databases**
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
-</p>
+**Data**
+<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase&theme=dark" /></p>
 
-**MLOps / DevOps / Cloud**
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
-</p>
+**MLOps / Infra**
+<p><img src="https://skillicons.dev/icons?i=docker,githubactions,aws,terraform,linux&theme=dark" /></p>
 
 **Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,raspberrypi,bash&theme=dark" /></p>
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hashir-55&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -112,14 +106,31 @@
   <img src="https://streak-stats.demolab.com/?user=Muhammad-Hashir-55&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hashir-55&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<!--
+Optional: animated contribution snake. Needs a one-time setup in your profile repo
+(github.com/Muhammad-Hashir-55/Muhammad-Hashir-55) - see snake.yml. Once the workflow
+has run at least once, uncomment this block.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Hashir-55/Muhammad-Hashir-55/output/github-contribution-grid-snake-dark.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Muhammad-Hashir-55/Muhammad-Hashir-55/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+-->
+
 ---
 
-### 🎓 Certifications
+## Certifications
 
 - DeepLearning.AI: Machine Learning Specialization, TensorFlow Developer
 - IBM: AI Developer Professional Certificate
 - Google: Advanced Data Analytics
 
----
-
-<p align="center"><i>Consistency + Curiosity = Growth</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
+</p>
