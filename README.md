@@ -110,10 +110,7 @@ Things I tinker with outside coursework and internships:
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hashir-55&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<!--
-Optional: animated contribution snake. Needs a one-time setup in your profile repo
-(github.com/Muhammad-Hashir-55/Muhammad-Hashir-55) - see snake.yml. Once the workflow
-has run at least once, uncomment this block.
+
 
 <p align="center">
   <picture>
@@ -121,7 +118,7 @@ has run at least once, uncomment this block.
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Muhammad-Hashir-55/Muhammad-Hashir-55/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
--->
+
 
 ---
 
