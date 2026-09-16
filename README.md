@@ -80,26 +80,65 @@ Things I tinker with outside coursework and internships:
 ## Tech Stack
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=py,cpp,js&theme=dark" /></p>
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00599C">
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E">
+</p>
 
 **AI / ML / Computer Vision**
-<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" /></p>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00">
+<img src="https://img.shields.io/badge/Scikit_Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8">
+</p>
 
 **Full Stack**
-<p><img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,nodejs&theme=dark" /></p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688">
+<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933">
+</p>
 
 **Data**
-<p><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase&theme=dark" /></p>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248">
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28">
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3FCF8E">
+</p>
 
 **MLOps / Infra**
-<p><img src="https://skillicons.dev/icons?i=docker,githubactions,aws,terraform,linux&theme=dark" /></p>
+<p>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF">
+<img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900">
+<img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=7B42BC">
+<img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624">
+</p>
 
 **Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,raspberrypi,bash&theme=dark" /></p>
+<p>
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC">
+<img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=F37626">
+<img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat-square&logo=raspberrypi&logoColor=A22846">
+<img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25">
+</p>
 
 ---
 
 ## GitHub Analytics
+
+<!--
+The stats card, top-langs card, and trophy case below all hit the shared public
+github-readme-stats.vercel.app / github-profile-trophy.vercel.app servers, which
+are rate-limited across every GitHub user in the world and are why they showed up
+as blank images. Uncomment once you deploy your own instance (see the note below
+the widgets) and swap the domain in each src.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hashir-55&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -107,14 +146,18 @@ Things I tinker with outside coursework and internships:
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hashir-55&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+-->
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Muhammad-Hashir-55&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hashir-55&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-
+<!--
+Optional: animated contribution snake. Needs a one-time setup in your profile repo
+(github.com/Muhammad-Hashir-55/Muhammad-Hashir-55) - see snake.yml. Once the workflow
+has run at least once, uncomment this block.
 
 <p align="center">
   <picture>
@@ -122,7 +165,7 @@ Things I tinker with outside coursework and internships:
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Muhammad-Hashir-55/Muhammad-Hashir-55/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
+-->
 
 ---
 
