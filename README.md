@@ -66,14 +66,7 @@ Mail......: hashir.awaiz@gmail.com
 
 **Also building:** CausalVis, a neuro-symbolic pipeline for causal and counterfactual reasoning in physical video (Final Year Project) - and a Multimodal Agentic RAG system combining CLIP, FAISS, LangChain, and Neo4j for a Deep Neural Networks course.
 
----
 
-## In the Lab
-
-Things I tinker with outside coursework and internships:
-- Daily driving Linux Mint with LUKS full-disk encryption, running a Windows VM through QEMU/KVM and virt-manager
-- Deploying edge inference on a Raspberry Pi 5, tuning models for real-time camera and sensor pipelines
-- Debugging low-level GPU/compositor issues (chased a Waydroid gralloc/GPU mismatch down to matching render nodes between the container and the Wayland compositor)
 
 ---
 
