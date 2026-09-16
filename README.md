@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Hashir%20Awaiz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20GenAI&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Hashir%20Awaiz&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20-%20Computer%20Vision%20%26%20GenAI&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -110,7 +110,10 @@ Things I tinker with outside coursework and internships:
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hashir-55&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-
+<!--
+Optional: animated contribution snake. Needs a one-time setup in your profile repo
+(github.com/Muhammad-Hashir-55/Muhammad-Hashir-55) - see snake.yml. Once the workflow
+has run at least once, uncomment this block.
 
 <p align="center">
   <picture>
@@ -118,7 +121,7 @@ Things I tinker with outside coursework and internships:
     <img alt="contribution snake" src="https://raw.githubusercontent.com/Muhammad-Hashir-55/Muhammad-Hashir-55/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
+-->
 
 ---
 
